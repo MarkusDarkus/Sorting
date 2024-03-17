@@ -1,2 +1,9 @@
 # Sorting
-sort algorithms and their analys
+##Sort algorithms and their analys
+
+## Algirithms
+
+
+## Analys (amortization + memory)
+
+## Graphic
